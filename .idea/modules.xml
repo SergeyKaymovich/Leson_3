@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Decrement/Decrement.iml" filepath="$PROJECT_DIR$/Decrement/Decrement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumber/EvenNumber.iml" filepath="$PROJECT_DIR$/EvenNumber/EvenNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForNotEven/ForNotEven.iml" filepath="$PROJECT_DIR$/ForNotEven/ForNotEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leson_3.iml" filepath="$PROJECT_DIR$/.idea/Leson_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv/Massiv.iml" filepath="$PROJECT_DIR$/Massiv/Massiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleNumber/MultipleNumber.iml" filepath="$PROJECT_DIR$/MultipleNumber/MultipleNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositiveNumber/PositiveNumber.iml" filepath="$PROJECT_DIR$/PositiveNumber/PositiveNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeasonIf/SeasonIf.iml" filepath="$PROJECT_DIR$/SeasonIf/SeasonIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seasons/Seasons.iml" filepath="$PROJECT_DIR$/Seasons/Seasons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquareOfNumbers/SquareOfNumbers.iml" filepath="$PROJECT_DIR$/SquareOfNumbers/SquareOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temp/Temp.iml" filepath="$PROJECT_DIR$/Temp/Temp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While/While.iml" filepath="$PROJECT_DIR$/While/While.iml" />
+    </modules>
+  </component>
+</project>
